@@ -27,7 +27,7 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 
 
 ---
-## How to start Contributing and pull request
+## How to start Contributing and pull request [Longer Way For Nerds] (Scrool Down For Shorter Version)
 
 **1.**  Fork [this](https://github.com/hctnm2/hacktoberfest-2021.git) repository.
 
