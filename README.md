@@ -113,3 +113,8 @@ It's very easy. You don't need to be an expert in coding and programming. Here a
 
 I have created a simple page to display all contributors list [here](https://hctnm2.github.io/hacktoberfest-2021), your name should appear shortly after the pull request is merged.
 ---
+
+# :handshake: Our Contributors
+<a href="https://github.com/hctnm2/hacktoberfest-2021/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hctnm2/hacktoberfest-2021" />
+</a>
