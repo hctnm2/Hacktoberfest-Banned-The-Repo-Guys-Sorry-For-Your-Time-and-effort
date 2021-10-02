@@ -1,3 +1,6 @@
+Pushpinder Thakur
+arsh misra
+Dilki Lakshani
 Sayani Roy
 Aditya Patel
 Ritaban Datta
@@ -56,6 +59,8 @@ Pranav Choudhary
 Supriya M
 Faizal Anwar
 mketters
+Pritam Nag
+Dipak Patil
 Naman 
 Grawish Sachdeva
 Mohammad Haziq Khan
@@ -67,6 +72,8 @@ Sonal Mittal
 RUI-PINH0
 Roshan K.C
 HCTN 02
+Yash Sharma
+Akilesh K
 Vaskar parajuli
 Amrit Thapa
 Ukesh-dev
@@ -78,9 +85,14 @@ Akash Roy
 Nishtha Rastogi
 Rahul Jangle
 UmeshaNirmani
+Himanshu Singh
+Sandesh Jain
 Eka Pradana
 Saahil Sabu Hameed
 Hemant Fegade
+Akilesh K
+Md. Almas Ali
+RANJAN KUMAR
 Ary Setya P.
 Kislay Singh
 Saiyed Faizan
@@ -88,5 +100,3 @@ chetan gupta
 Anubhuti Jain
 Samyak Jain
 Jaspreet Singh
-Akilesh K
-Md. Almas Ali
