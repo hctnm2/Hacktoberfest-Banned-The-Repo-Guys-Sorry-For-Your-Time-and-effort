@@ -1,5 +1,6 @@
 Sayani Roy
 Aditya Patel
+Ritaban Datta
 Deshan Chathuranga
 Spacify
 Abhinay Singh
@@ -49,6 +50,8 @@ preeti saroj
 Nihar Dubey
 Huda Damar
 Pajri Zahrawaani Ahmad
+Biplab Bhattacharya
+Gaurav Yadav
 Pranav Choudhary
 Supriya M
 Faizal Anwar
@@ -58,6 +61,7 @@ Grawish Sachdeva
 Mohammad Haziq Khan
 Romadhon Aji
 ESDawn 
+Pratik Jangale
 Reshaka Lakshan
 Sonal Mittal
 RUI-PINH0
@@ -68,6 +72,9 @@ Amrit Thapa
 Ukesh-dev
 Suman Gurung
 Aneko Inda
+Chethiya Nishanath
+Ritaban Datta
+Akash Roy
 Nishtha Rastogi
 Rahul Jangle
 UmeshaNirmani
@@ -81,4 +88,3 @@ chetan gupta
 Anubhuti Jain
 Samyak Jain
 Jaspreet Singh
-Biplab Bhattacharya
