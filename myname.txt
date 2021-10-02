@@ -28,7 +28,7 @@ Vaibhav_7221
 HCTN 1
 Kandepi Nithish
 keerays
-Anshdeep Yadav
+Anshdeep Yadav 
 Aniket Das
 prometheus
 Supuna Warusawithana
@@ -59,13 +59,13 @@ Pranav Choudhary
 Supriya M
 Faizal Anwar
 mketters
-Naman
 Pritam Nag
 Dipak Patil
+Naman 
 Grawish Sachdeva
 Mohammad Haziq Khan
 Romadhon Aji
-ESDawn
+ESDawn 
 Pratik Jangale
 Reshaka Lakshan
 Sonal Mittal
@@ -101,5 +101,3 @@ chetan gupta
 Anubhuti Jain
 Samyak Jain
 Jaspreet Singh
-Gaurav Yadav
-Bil Abror
