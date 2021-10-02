@@ -1,4 +1,6 @@
 Pushpinder Thakur
+arsh misra
+Dilki Lakshani
 Sayani Roy
 Aditya Patel
 Ritaban Datta
@@ -51,10 +53,14 @@ preeti saroj
 Nihar Dubey
 Huda Damar
 Pajri Zahrawaani Ahmad
+Biplab Bhattacharya
+Gaurav Yadav
 Pranav Choudhary
 Supriya M
 Faizal Anwar
 mketters
+Pritam Nag
+Dipak Patil
 Naman 
 Grawish Sachdeva
 Mohammad Haziq Khan
@@ -66,6 +72,8 @@ Sonal Mittal
 RUI-PINH0
 Roshan K.C
 HCTN 02
+Yash Sharma
+Akilesh K
 Vaskar parajuli
 Amrit Thapa
 Ukesh-dev
@@ -77,6 +85,8 @@ Akash Roy
 Nishtha Rastogi
 Rahul Jangle
 UmeshaNirmani
+Himanshu Singh
+Sandesh Jain
 Eka Pradana
 Saahil Sabu Hameed
 Hemant Fegade
@@ -87,4 +97,4 @@ chetan gupta
 Anubhuti Jain
 Samyak Jain
 Jaspreet Singh
-Gaurav Yadav
+RANJAN KUMAR
